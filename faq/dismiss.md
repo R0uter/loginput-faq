@@ -8,4 +8,4 @@
 
 > 特别的，对于 VoiceOver 用户，我们专门在键盘的右上角为你提供了一个“收键盘”的按钮。
 
-更多手势可参考[键盘手势操作大全](basic/gestures.md)
+更多手势可参考[键盘手势操作大全](https://docs.logcg.com/ji-ben-gong-neng/jian-pan-shou-shi-cao-zuo-da-quan)
