@@ -2,14 +2,14 @@
 
 * [你好。](README.md)
 * 常见概念
-  - [什么是双拼？](faq/whatssp.md)
-  - [什么是双拼？](faq/whatssp.md)
+  - [什么是双拼？](concept/whatssp.md)
+  - [什么是码表？](concept/codetable.md)
 * 基本功能
   - [各种开关功能说明](basic/switchs.md)
   - [键盘手势操作大全](basic/gestures.md)
   - [挖坑待填](basic/gitbookcli.md)
 * 进阶技巧
-  - [挖坑待填](advanced/gitbook-cli.md)
+  - [用自然码辅码筛选候选词](advanced/zrmassist.md)
   - [挖坑待填](advanced/editor.md)
 * 常见问题
   - [在 1Password 等 app 中无法使用？](faq/1p.md)
