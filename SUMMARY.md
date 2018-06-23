@@ -10,7 +10,9 @@
   - [挖坑待填](basic/gitbookcli.md)
 * 进阶技巧
   - [用自然码辅码筛选候选词](advanced/zrmassist.md)
-  - [挖坑待填](advanced/editor.md)
+  - [双拼方案配置格式](advanced/spformat.md)
+  - [提示皮肤配置格式](advanced/skin-format.md)
+  - [码表辅码配置格式](advanced/table-format.md)
 * 常见问题
   - [在 1Password 等 app 中无法使用？](faq/1p.md)
   - [为什么不支持 3D Touch 移动光标？](faq/3d.md)
