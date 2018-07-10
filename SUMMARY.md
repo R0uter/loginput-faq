@@ -4,9 +4,11 @@
 * 常见概念
   - [什么是双拼？](concept/whatssp.md)
   - [什么是码表？](concept/codetable.md)
+  - [什么是辅码？](concept/assist.md)
 * 基本功能
   - [各种开关功能说明](basic/switchs.md)
   - [键盘手势操作大全](basic/gestures.md)
+  - [键盘支持的点划宏](basic/marco.md)
   - [挖坑待填](basic/gitbookcli.md)
 * 进阶技巧
   - [用自然码辅码筛选候选词](advanced/zrmassist.md)
