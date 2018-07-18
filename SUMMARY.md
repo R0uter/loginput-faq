@@ -2,9 +2,34 @@
 
 * [你好。](README.md)
 * 常见概念
+
   - [什么是双拼？](concept/whatssp.md)
   - [什么是码表？](concept/codetable.md)
   - [什么是辅码？](concept/assist.md)
+* 界面功能简述（iOS）
+  - 偏好
+    - [面板之上](basic/ios/above.md)
+    - [面板之下](basic/ios/under.md)
+  - 对数云
+    - []()
+    - []()
+    - []()
+    - []()
+  - 系统
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+  - 其他 
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+
 * 基本功能
   - [各种开关功能说明](basic/switchs.md)
   - [键盘手势操作大全](basic/gestures.md)
