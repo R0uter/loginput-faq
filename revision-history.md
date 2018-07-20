@@ -1,7 +1,10 @@
 # 修订历史
 
+2018年07月20日
+- 增加了一个 FAQ 键盘顶部按钮的气泡无法显示全部？
+
 2018年07月18日
-- 增加了 界面功能简述（iOS） 分类以详细讨论 iOS 版落格输入法（X）的配置功能。
+- 增加了 [界面功能简述（iOS）](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios) 分类以详细讨论 iOS 版落格输入法（X）的配置功能。
 
 2018年07月10日
 - 在基本功能中增加 [键盘支持的点划宏](https://docs.logcg.com/ji-ben-gong-neng/jian-pan-zhi-chi-de-dian-hua-hong) 章节以讨论键盘中的宏功能；
