@@ -45,4 +45,5 @@
   - [为什么不支持 3D Touch 移动光标？](faq/3d.md)
   - [键盘按钮上的下划线是怎么回事？](faq/button.md)
   - [如何收起键盘？](faq/dismiss.md)
+  - [键盘顶部按钮的气泡无法显示全部？](faq/popup.md)
 * [修订历史](revision-history.md)
