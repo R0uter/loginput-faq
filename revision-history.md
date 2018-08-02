@@ -2,7 +2,7 @@
 
 2018年08月02日
 - 现在[界面功能简述（iOS）](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios) 分类全部完成了。
-- 
+
 2018年07月22日
 - 在[界面功能简述（iOS）](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios) 分类中增加了对 [对数云](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios/lgcloud)、[双拼方案](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios/xi-tong/sp)、[主码表](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios/xi-tong/maincodetable)、[辅码码表](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios/xi-tong/assist)、[模糊音](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios/xi-tong/fuzzy)的设置界面讨论。
 
