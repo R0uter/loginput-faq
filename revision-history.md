@@ -1,7 +1,10 @@
 # 修订历史
 
+2018年08月02日
+- 现在[界面功能简述（iOS）](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios) 分类全部完成了。
+- 
 2018年07月22日
-- 在[界面功能简述（iOS）](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios) 分类中增加了对 对数云、双拼方案、主码表、辅码码表、模糊音的设置界面讨论。
+- 在[界面功能简述（iOS）](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios) 分类中增加了对 [对数云](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios/lgcloud)、[双拼方案](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios/xi-tong/sp)、[主码表](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios/xi-tong/maincodetable)、[辅码码表](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios/xi-tong/assist)、[模糊音](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios/xi-tong/fuzzy)的设置界面讨论。
 
 2018年07月20日
 - 增加了一个 FAQ [键盘顶部按钮的气泡无法显示全部？](https://docs.logcg.com/chang-jian-wen-ti/popup)。
