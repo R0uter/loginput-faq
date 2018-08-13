@@ -45,4 +45,6 @@
   - [键盘按钮上的下划线是怎么回事？](faq/button.md)
   - [如何收起键盘？](faq/dismiss.md)
   - [键盘顶部按钮的气泡无法显示全部？](faq/popup.md)
+  - [为什么落格输入法 X 不提供内测？](faq/testflight.md)
+  
 * [修订历史](revision-history.md)

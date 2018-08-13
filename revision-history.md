@@ -1,4 +1,10 @@
 # 修订历史
+2018年08月13日
+- 增加了 为什么落格输入法 X 不提供内测？ 一章来讨论落格输入法X 不开放内测的原因；
+- 在[界面功能简述（iOS）](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios) 分类的[主码表](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios/xi-tong/maincodetable) 一章中添加了关于“上划空格通配”和“空码自动清屏”的讨论。
+
+2018年08月04日
+- 为[界面功能简述（iOS）](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios) 中的主码表章节进行了更新，加入了上划空格通配以及空码自动清屏的开关说明。
 
 2018年08月02日
 - 现在[界面功能简述（iOS）](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios) 分类全部完成了。
