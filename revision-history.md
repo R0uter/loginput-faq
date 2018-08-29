@@ -1,4 +1,7 @@
 # 修订历史
+2018年08月29日
+- 在进阶技巧中增加了 fcitx-remote-for-osx 兼容 章节来讨论落格输入法 macOS 如何与 fcitx-remote-for-osx 协作。
+
 2018年08月13日
 - 增加了 为什么落格输入法 X 不提供内测？ 一章来讨论落格输入法X 不开放内测的原因；
 - 在[界面功能简述（iOS）](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios) 分类的[主码表](https://docs.logcg.com/jie-mian-gong-neng-jian-shu-ios/xi-tong/maincodetable) 一章中添加了关于“上划空格通配”和“空码自动清屏”的讨论。

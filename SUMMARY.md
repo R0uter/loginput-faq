@@ -39,6 +39,7 @@
   - [双拼方案配置格式](advanced/spformat.md)
   - [提示皮肤配置格式](advanced/skin-format.md)
   - [码表辅码配置格式](advanced/table-format.md)
+  - [fcitx-remote-for-osx 兼容](advanced/fcitx.md)
 * 常见问题
   - [在 1Password 等 app 中无法使用？](faq/1p.md)
   - [为什么不支持 3D Touch 移动光标？](faq/3d.md)
