@@ -6,6 +6,7 @@
   - [什么是双拼？](concept/whatssp.md)
   - [什么是码表？](concept/codetable.md)
   - [什么是辅码？](concept/assist.md)
+
 * 界面功能简述（iOS）
   - 偏好
     - [面板之上](basic/ios/above.md)
@@ -29,6 +30,23 @@
     - [App 色彩主题](basic/ios/color.md)
     - [荣誉列表](basic/ios/credit.md)
 
+* 界面功能简述（macOS）
+  - 偏好
+    - [候选栏](basic/macOS/candidateBar.md)
+    - [面板之下](basic/macOS/under.md)  
+  - 码表与方案
+    - [拼音方案](basic/macOS/sp.md)
+    - [码表](basic/macOS/codetable.md)
+  - 系统
+    - [功能设置](basic/macOS/function.md)
+    - [自定义编码](basic/macOS/custom.md)
+    - [点划引导](basic/macOS/bootbutton.md)
+    - [额外编码](basic/macOS/extra.md)
+    - [符号映射](basic/macOS/puncmap.md)
+    - [安全与隐私](basic/macOS/pri.md)
+  - [对数云](basic/macOS/lgcloud.md)
+  - [备份恢复](basic/macOS/backup.md)
+  
 * 基本功能
   - [各种开关功能说明](basic/switchs.md)
   - [键盘手势操作大全](basic/gestures.md)
