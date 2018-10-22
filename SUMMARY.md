@@ -13,7 +13,7 @@
     - [面板之下](basic/ios/under.md)
   - [对数云](basic/ios/lgcloud.md)
   - 系统
-    - [双拼方案](basic/ios/sp.md)
+    - [拼音方案](basic/ios/sp.md)
     - [主码表](basic/ios/mainCodeTable.md)
     - [辅码码表](basic/ios/assist.md)
     - [模糊音](basic/ios/fuzzy.md)
@@ -27,7 +27,8 @@
   - 其他 
     - [实验室](basic/ios/lab.md)
     - [App 图标](basic/ios/icon.md)
-    - [App 色彩主题](basic/ios/color.md)
+    - [App 高亮色彩](basic/ios/color.md)
+    - [App 配色主题](basic/ios/theme.md)
     - [荣誉列表](basic/ios/credit.md)
 
 * 界面功能简述（macOS）
