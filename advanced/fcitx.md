@@ -22,13 +22,12 @@ $ git clone https://github.com/CodeFalling/fcitx-remote-for-osx $ cd fcitx-remot
 ```
 
 
-如果之前已经使用过 homebrew 安装过 fcitx-remote-for-osx 可以通过 `fcitx-remote -n` 查询到落格输入法的识别名称为 `com.logcg.inputmethod.LogInputMac.LogInputMacSP`，然后就可以自行编译了：
+如果之前已经使用过 homebrew 安装过 fcitx-remote-for-osx 可以通过 `fcitx-remote -n` 查询到落格输入法的识别名称为 `com.logcg.inputmethod.LogInputMac2.LogInputMac2SP`，然后就可以自行编译了：
 
 ```
-$ xcodebuild GCC_PREPROCESSOR_DEFINITIONS='$GCC_PREPROCESSOR_DEFINITIONS CHINESE_KEYBOARD_LAYOUT=@\"com.logcg.inputmethod.LogInputMac.LogInputMacSP\"' install
+$ xcodebuild GCC_PREPROCESSOR_DEFINITIONS='$GCC_PREPROCESSOR_DEFINITIONS CHINESE_KEYBOARD_LAYOUT=@\"com.logcg.inputmethod.LogInputMac2.LogInputMac2SP\"' install
 ```
 
-> 对于 落格输入法 macOS 2 来说，你应该写 `com.logcg.inputmethod.LogInputMac.LogInputMac2SP` 。
 
 编译中遇到以下报错：
 
@@ -50,7 +49,7 @@ $ sudo xcode-select  -s /Applications/Xcode.app/Contents/Developer
 
 ```
 $ fcitx-remote -c # 切换回英文  Changing to com.apple.keylayout.US # 成功 
-$ fcitx-remote -o # 切换到中文  Changing to com.logcg.inputmethod.LogInputMac.LogInputMacSP  # 成功
+$ fcitx-remote -o # 切换到中文  Changing to com.logcg.inputmethod.LogInputMac2.LogInputMac2SP  # 成功
 ```
 
 
