@@ -66,5 +66,6 @@
   - [如何收起键盘？](faq/dismiss.md)
   - [键盘顶部按钮的气泡无法显示全部？](faq/popup.md)
   - [为什么落格输入法 X 不提供内测？](faq/testflight.md)
+  - [如何在 macOS 版使用 德沃夏克 布局](faq/dvorak.md)
   
 * [修订历史](revision-history.md)
