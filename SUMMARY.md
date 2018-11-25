@@ -62,5 +62,6 @@
   * [如何收起键盘？](chang-jian-wen-ti/dismiss.md)
   * [键盘顶部按钮的气泡无法显示全部？](chang-jian-wen-ti/popup.md)
   * [为什么落格输入法 X 不提供内测？](chang-jian-wen-ti/testflight.md)
+  * [如何在 macOS 版使用 德沃夏克 布局](chang-jian-wen-ti/dvorak.md)
 * [修订历史](revision-history.md)
 
