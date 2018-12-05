@@ -47,8 +47,8 @@
 * [基本功能](ji-ben-gong-neng/README.md)
   * [各种开关功能说明](ji-ben-gong-neng/switchs.md)
   * [键盘手势操作大全](ji-ben-gong-neng/gestures.md)
-  * [键盘支持的点划宏](ji-ben-gong-neng/marco.md)
-  * [挖坑待填](ji-ben-gong-neng/wa-keng-dai-tian.md)
+  * [输入法操作大全](ji-ben-gong-neng/gestures-macos.md)
+  * [键盘支持的点划引导宏](ji-ben-gong-neng/marco.md)
 * [进阶技巧](jin-jie-ji-qiao/README.md)
   * [用自然码辅码筛选候选词](jin-jie-ji-qiao/zrmassist.md)
   * [双拼方案配置格式](jin-jie-ji-qiao/spformat.md)
@@ -64,5 +64,6 @@
   * [为什么落格输入法 X 不提供内测？](chang-jian-wen-ti/testflight.md)
   * [如何在 macOS 版使用 德沃夏克 布局？](chang-jian-wen-ti/dvorak.md)
   * [落格输入法都支持哪些 URL Scheme？](chang-jian-wen-ti/url.md)
+  * [落格输入法的兼容性如何？](chang-jian-wen-ti/compatibility.md)
 * [修订历史](revision-history.md)
 
