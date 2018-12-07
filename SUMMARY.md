@@ -65,5 +65,6 @@
   * [如何在 macOS 版使用 德沃夏克 布局？](chang-jian-wen-ti/dvorak.md)
   * [落格输入法都支持哪些 URL Scheme？](chang-jian-wen-ti/url.md)
   * [落格输入法的兼容性如何？](chang-jian-wen-ti/compatibility.md)
+  * [落格输入法的授权突然丢失？](chang-jian-wen-ti/license.md)
 * [修订历史](revision-history.md)
 
