@@ -1,5 +1,10 @@
 # fcitx-remote-for-osx 兼容
 
+要安装 fcitx-remote-for-osx 的落格输入法兼容，请直接在终端执行：
+
+`brew install fcitx-remote-for-osx --with-input-method=loginput2` 
+
+---
 > 感谢 ArchCST 的详细教程，原文在[这里](https://archcst.github.io/blog/2018/08/29/loginput-with-frfo/)。
 
 Mac 下使用 Vim 或 Spacemacs 的用户可能需要在退出 Insert Mode 进入 Normal Mode 的时候自动切换回英文输入法，避免中文输入法截断快捷键的输入。 fcitx-remote-for-osx 插件可以实现这个功能。
