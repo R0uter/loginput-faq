@@ -1,0 +1,31 @@
+language: node_js
+env:
+  global:
+  - GIT_NAME: "'R0uter'"
+  - GIT_EMAIL: lomyr.jo@gmail.com
+  - GH_REF: git@github.com:R0uter/loginput-faq.git
+
+
+install:
+  - npm install gitbook-cli -g
+
+script:
+  - openssl aes-256-cbc -K $encrypted_2cc6188c6511_key -iv $encrypted_2cc6188c6511_iv -in deploy_rw.enc -out deploy_rw -d
+  - chmod 600 deploy_rw
+  - eval `ssh-agent -s`
+  - ssh-add deploy_rw
+  - git config user.name "${GIT_NAME}"
+  - git config user.email "${GIT_EMAIL}"
+  - git clone -b gh-pages git@github.com:R0uter/loginput-faq.git
+  - rm -r gh-pages
+  - mv loginput-faq gh-pages
+  - cd ..
+  - gitbook build loginput-faq loginput-faq/gh-pages
+  - cd loginput-faq
+  - cd gh-pages
+  - git add --all
+  - git commit -m 'update'
+  - git push origin origin/gh-pages
+  
+
+
