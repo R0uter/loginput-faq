@@ -15,16 +15,16 @@ script:
   - git config user.name "${GIT_NAME}"
   - git config user.email "${GIT_EMAIL}"
   - git clone git@github.com:R0uter/loginput-faq.git
-  - cd loginput-faq
+  - mv loginput-faq gh-pages
+  - cd gh-pages
   - git checkout gh-pages
   - cd ..
-  - mv loginput-faq gh-pages
   - cd ..
   - gitbook build loginput-faq loginput-faq/gh-pages
   - cd loginput-faq/gh-pages
   - git add --all
   - git commit -m "update"
-  - git push origin origin/gh-pages
+  - git push
   
 
 
