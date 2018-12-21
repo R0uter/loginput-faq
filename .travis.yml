@@ -12,8 +12,8 @@ script:
   - chmod 600 deploy_rw
   - eval `ssh-agent -s`
   - ssh-add deploy_rw
-  - git config user.name "${GIT_NAME}"
-  - git config user.email "${GIT_EMAIL}"
+  - git config user.name "$GIT_NAME"
+  - git config user.email "$GIT_EMAIL"
   - git clone git@github.com:R0uter/loginput-faq.git
   - mv loginput-faq gh-pages
   - cd gh-pages
