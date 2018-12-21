@@ -22,7 +22,7 @@ script:
   - cd loginput-faq
   - cd gh-pages
   - git add --all
-  - git commit -m "update"
+  - git commit -m 'update'
   - git push origin origin/gh-pages
   
 
