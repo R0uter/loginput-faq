@@ -24,7 +24,7 @@ script:
   - cd loginput-faq/gh-pages
   - git add --all
   - git commit -m "update"
-  - git push
+  - git push origin HEAD:gh-pages
   
 
 
