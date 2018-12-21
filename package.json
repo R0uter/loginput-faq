@@ -1,0 +1,19 @@
+{
+  "name": "loginput-faq",
+  "version": "1.0.0",
+  "description": "落格输入法是 macOS 和 iOS 平台进行中文输入的绝佳选择。不论你使用的是全拼、双拼还是五笔，是郑码还是快笔，你都可以在落格输入法中继续输入。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R0uter/loginput-faq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R0uter/loginput-faq/issues"
+  },
+  "homepage": "https://github.com/R0uter/loginput-faq#readme"
+}
