@@ -1,13 +1,8 @@
 language: node_js
-env:
-  global:
-  - GIT_NAME: "'R0uter'"
-  - GIT_EMAIL: lomyr.jo@gmail.com
-  - GH_REF: git@github.com:R0uter/loginput-faq.git
 
+before_install:
+  - npm i -g gitbook-cli
 
-install:
-  - npm install gitbook-cli -g
 
 script:
   - openssl aes-256-cbc -K $encrypted_2cc6188c6511_key -iv $encrypted_2cc6188c6511_iv -in deploy_rw.enc -out deploy_rw -d
