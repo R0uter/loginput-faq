@@ -14,15 +14,16 @@ script:
   - ssh-add deploy_rw
   - git config user.name "${GIT_NAME}"
   - git config user.email "${GIT_EMAIL}"
-  - git clone -b gh-pages git@github.com:R0uter/loginput-faq.git
-  - rm -r gh-pages
+  - git clone git@github.com:R0uter/loginput-faq.git
+  - cd loginput-faq
+  - git checkout gh-pages
+  - cd ..
   - mv loginput-faq gh-pages
   - cd ..
   - gitbook build loginput-faq loginput-faq/gh-pages
-  - cd loginput-faq
-  - cd gh-pages
+  - cd loginput-faq/gh-pages
   - git add --all
-  - git commit -m 'update'
+  - git commit -m "update"
   - git push origin origin/gh-pages
   
 
