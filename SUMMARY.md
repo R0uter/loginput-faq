@@ -64,5 +64,6 @@
   * [落格输入法都支持哪些 URL Scheme？](chang-jian-wen-ti/url.md)
   * [落格输入法的兼容性如何？](chang-jian-wen-ti/compatibility.md)
   * [落格输入法的授权突然丢失？](chang-jian-wen-ti/license.md)
+  * [如何导出和导入用户词库？](chang-jian-wen-ti/userdict.md)
 * [修订历史](revision-history.md)
 
