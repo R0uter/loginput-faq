@@ -16,3 +16,4 @@ _book/
 *.pdf
 yulib.resource
 yulib.config
+package-lock.json

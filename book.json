@@ -1,0 +1,82 @@
+{
+  "title": "落格输入法从入门到精通",
+   "author":"落格工作室 <lomyr.jo@gmail.com>",
+  "description": "本书为落格输入法官方使用手册，包含落格输入法所有功能说明和技巧教程以及常见问题解答。",
+  "language": "zh-hans",
+   "links": {
+
+    "sidebar": {
+
+      "落格工作室": "https://im.logcg.com",
+      "落格输入法 macOS 2": "https://im.logcg.com/loginputmac2",
+      "落格输入法 X": "https://im.logcg.com/loginputx",
+      "落格输入法经典版 ": "https://im.logcg.com/loginput"
+
+    }
+
+  },
+  "theme-default": {
+            "showLevel": true
+        },
+  "fontsettings": {
+            "theme": "night",
+            "family": "serif",
+            "size": 2
+        },
+  "plugins": [
+    "book-summary-scroll-position-saver",
+    "anchors",
+    "splitter",
+    "sitemap",
+    "tbfed-pagefooter",
+    "toggle-chapters",
+    "-lunr", 
+    "-search", 
+    "search-plus",
+    "anchor-navigation-ex"
+  ],
+  "pluginsConfig": {
+ 		
+     "sharing": {
+            "facebook": false,
+            "twitter": true,
+            "google": false,
+            "weibo": true,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
+      },
+    "sitemap": {
+        "hostname": "https://docs.logcg.com/"
+    },
+    "tbfed-pagefooter": {
+        "copyright":"&copy 2016-2019 落格工作室",
+        "modify_label": "修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "anchor-navigation-ex": {
+             "showLevel": true,
+				"associatedWithSummary": true,
+				"printLog": false,
+				"multipleH1": false,
+				"mode": "float",
+				"showGoTop":true,
+				"float": {
+					"floatIcon": "fa fa-navicon",
+					"showLevelIcon": false,
+					"level1Icon": "fa fa-hand-o-right",
+					"level2Icon": "fa fa-hand-o-right",
+					"level3Icon": "fa fa-hand-o-right"
+				},
+				"pageTop": {
+					"showLevelIcon": false,
+					"level1Icon": "fa fa-hand-o-right",
+					"level2Icon": "fa fa-hand-o-right",
+					"level3Icon": "fa fa-hand-o-right"
+				}
+        }
+  }
+}
