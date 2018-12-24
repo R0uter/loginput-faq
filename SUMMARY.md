@@ -67,7 +67,7 @@
 * [落格输入法的兼容性如何？](faq/compatibility.md)
 * [落格输入法的授权突然丢失？](faq/license.md)
 * [如何导出和导入用户词库？](faq/userdict.md)
-
+* [iOS Day One 中键盘可能无法正常弹出？](faq/dayone.md)
 ---
 
 * [修订历史](revision-history.md)
