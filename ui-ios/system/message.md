@@ -18,5 +18,5 @@
 
 ## 快捷短语支持时间日期宏
 
-如[键盘支持的点划宏](https://docs.logcg.com/ji-ben-gong-neng/marco)中描述的那样，快捷短语支持点划宏中的“时间日期宏”，你可以具体请移步[键盘支持的点划宏](https://docs.logcg.com/ji-ben-gong-neng/marco)了解更多。
+如[键盘支持的点划宏](https://docs.logcg.com/basic/marco.html)中描述的那样，快捷短语支持点划宏中的“时间日期宏”，你可以具体请移步[键盘支持的点划宏](https://docs.logcg.com/basic/marco.html)了解更多。
 

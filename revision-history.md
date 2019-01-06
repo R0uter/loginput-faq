@@ -1,5 +1,9 @@
 # 修订历史
 
+2019年01月06日
+
+* 修正了大多数文章内链，由于项目迁移导致链接格式改变，如果还有遗失，请各位读者多多反馈。
+
 2018年12月24日
 
 * 添加了一个 FAQ 以说明对 Day One 的兼容性错误绕过方案。
@@ -93,5 +97,5 @@
 
 2018年06月23日
 
-* 在 [进阶技巧](https://docs.logcg.com/jin-jie-ji-qiao) 分类中增加了 [双拼方案配置格式](https://docs.logcg.com/jin-jie-ji-qiao/shuang-pin-fang-an-pei-zhi-ge-shi)、[提示皮肤配置格式](https://docs.logcg.com/jin-jie-ji-qiao/ti-shi-pi-fu-pei-zhi-ge-shi)、[码表辅码配置格式](https://docs.logcg.com/jin-jie-ji-qiao/ma-biao-fu-ma-pei-zhi-ge-shi) 章节。
+* 在 [进阶技巧](https://docs.logcg.com/advanced) 分类中增加了 [双拼方案配置格式](https://docs.logcg.com/advanced/shuang-pin-fang-an-pei-zhi-ge-shi)、[提示皮肤配置格式](https://docs.logcg.com/advanced/ti-shi-pi-fu-pei-zhi-ge-shi)、[码表辅码配置格式](https://docs.logcg.com/advanced/ma-biao-fu-ma-pei-zhi-ge-shi) 章节。
 

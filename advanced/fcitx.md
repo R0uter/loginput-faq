@@ -1,6 +1,6 @@
 # fcitx-remote-for-osx 兼容
 
-要安装 fcitx-remote-for-osx 的落格输入法兼容，请直接在终端执行：
+要安装 fcitx-remote-for-osx 的落格输入法 macOS 2 兼容，请直接在终端执行：
 
 `brew install fcitx-remote-for-osx --with-input-method=loginput2` 
 
