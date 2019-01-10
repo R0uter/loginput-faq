@@ -68,6 +68,7 @@
 * [落格输入法的授权突然丢失？](faq/license.md)
 * [如何导出和导入用户词库？](faq/userdict.md)
 * [iOS Day One 中键盘可能无法正常弹出？](faq/dayone.md)
+* [macOS 如何设置中文全角空格？](faq/chinese-space.md)
 ---
 
 * [修订历史](revision-history.md)
