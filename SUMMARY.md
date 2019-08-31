@@ -56,6 +56,7 @@
     
 ### 常见问题
 
+* [macOS 如何卸载 落格输入法？](faq/uninstall.md)
 * [在 1Password 等 app 中无法使用？](faq/1p.md)
 * [为什么不支持 3D Touch 移动光标？](faq/3d.md)
 * [键盘按钮上的下划线是怎么回事？](faq/button.md)
