@@ -56,6 +56,7 @@
     
 ### 常见问题
 
+* [落格输入法何时支持 Windows、Android 以及 Linux？](faq/platform.md)
 * [macOS 如何卸载 落格输入法？](faq/uninstall.md)
 * [在 1Password 等 app 中无法使用？](faq/1p.md)
 * [为什么不支持 3D Touch 移动光标？](faq/3d.md)
