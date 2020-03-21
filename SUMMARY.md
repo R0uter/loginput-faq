@@ -56,6 +56,7 @@
     
 ### 常见问题
 
+* [落格输入法在 iOS 平台锁屏后自动变为系统键盘？](faq/ios-crash.md)
 * [macOS 版更新后输入法“消失”不见？](faq/update.md)
 * [落格输入法何时支持 Windows、Android 以及 Linux？](faq/platform.md)
 * [macOS 如何卸载 落格输入法？](faq/uninstall.md)
