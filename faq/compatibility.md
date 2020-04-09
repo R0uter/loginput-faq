@@ -46,6 +46,8 @@
 
 对于后者，可以考虑按一下右方向键来打断朗读。
 
+> 在 macOS 10.15.4 版本系统中，VoiceOver 会在遇到国旗 Emoji 时崩溃，某些时候无法正常选词，此时请关闭落格输入法的“智能 Emoji 候选”功能。
+
 ### 日志错误
 
 Error inserting batch: disk I/O error
