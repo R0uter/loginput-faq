@@ -53,6 +53,7 @@
     * [提示皮肤配置格式](advanced/skin-format.md)
     * [码表辅码配置格式](advanced/table-format.md)
     * [fcitx-remote-for-osx 兼容](advanced/fcitx.md)
+    *  [落格输入法支持的 URL Scheme](advanced/url.md)
     
 ### 常见问题
 
@@ -67,7 +68,6 @@
 * [键盘顶部按钮的气泡无法显示全部？](faq/popup.md)
 * [为什么落格输入法 X 不提供内测？](faq/testflight.md)
 * [如何在 macOS 版使用 德沃夏克 布局？](faq/dvorak.md)
-* [落格输入法都支持哪些 URL Scheme？](faq/url.md)
 * [落格输入法的兼容性如何？](faq/compatibility.md)
 * [落格输入法的授权突然丢失？](faq/license.md)
 * [如何导出和导入用户词库？](faq/userdict.md)
