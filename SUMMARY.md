@@ -46,7 +46,7 @@
     * [各种开关功能说明](basic/switchs.md)
     * [键盘手势操作大全](basic/gestures.md)
     * [输入法操作大全](basic/gestures-macos.md)
-    * [键盘支持的点划引导宏](basic/marco.md)
+    * [键盘支持的点划引导宏](basic/macro.md)
 * [进阶技巧](advanced/README.md)
     * [用自然码辅码筛选候选词](advanced/zrmassist.md)
     * [双拼方案配置格式](advanced/spformat.md)
