@@ -2,6 +2,7 @@
 
 * [你好。](README.md)
 * [常见概念](concept/README.md)
+    * [什么是落格十七？](concept/whatis17key.md)
     * [什么是双拼？](concept/whatssp.md)
     * [什么是码表？](concept/codetable.md)
     * [什么是辅码？](concept/assist.md)
@@ -66,7 +67,7 @@
 * [键盘按钮上的下划线是怎么回事？](faq/button.md)
 * [如何收起键盘？](faq/dismiss.md)
 * [键盘顶部按钮的气泡无法显示全部？](faq/popup.md)
-* [为什么落格输入法 X 不提供内测？](faq/testflight.md)
+* [如何获取 落格输入法 X 内测？](faq/testflight.md)
 * [如何在 macOS 版使用 德沃夏克 布局？](faq/dvorak.md)
 * [落格输入法的兼容性如何？](faq/compatibility.md)
 * [落格输入法的授权突然丢失？](faq/license.md)
