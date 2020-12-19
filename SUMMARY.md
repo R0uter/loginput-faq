@@ -53,7 +53,7 @@
     * [双拼方案配置格式](advanced/spformat.md)
     * [提示皮肤配置格式](advanced/skin-format.md)
     * [码表辅码配置格式](advanced/table-format.md)
-    * [面板词](advance/panelword.md)
+    * [面板词](advanced/panelword.md)
     * [fcitx-remote-for-osx 兼容](advanced/fcitx.md)
     *  [落格输入法支持的 URL Scheme](advanced/url.md)
     
