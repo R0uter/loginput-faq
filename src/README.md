@@ -11,6 +11,11 @@
 
 落格输入法目前支持 iOS 和 macOS ，通过落格输入法，你可以在这两个不同的平台上获得几乎一致的中文输入体验。
 
+[落格工作室](https://im.logcg.com)
+[落格输入法 macOS 2](https://im.logcg.com/loginputmac2)
+[落格输入法 X](https://im.logcg.com/loginputx)
+[落格输入法经典版](https://im.logcg.com/loginput)
+
 ## 安全与隐私
 
 落格输入法不上传你的任何隐私或记录，关于你的一切都完好地保存在你的电脑或手机当中（数据安全性由 macOS 和 iOS 本身的业界标准安全加密保证），一切的数据处理，都在本地离线进行。
