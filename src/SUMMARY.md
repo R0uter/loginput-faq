@@ -60,6 +60,7 @@
 
 * [常见问题]()
 
+    * [macOS 版 落格输入法无法输入中文分号？](faq/semi-colon.md)
     * [iOS 版落格输入法安装后在键盘列表中找不到键盘？](faq/no-keyboard.md)
     * [macOS 版落格输入法更新后输入法“消失”不见？](faq/update.md)
     * [落格输入法在 iOS 平台锁屏后自动变为系统键盘？](faq/ios-crash.md)
