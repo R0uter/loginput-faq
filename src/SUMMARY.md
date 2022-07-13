@@ -1,12 +1,15 @@
 # Summary
 
-[你好。](.README.md)
+* [你好。](README.md)
 
 * [常见概念](concept/README.md)
     * [什么是落格十七？](concept/whatis17key.md)
     * [什么是双拼？](concept/whatssp.md)
     * [什么是码表？](concept/codetable.md)
     * [什么是辅码？](concept/assist.md)
+
+---
+
 * [界面功能简述（iOS）](ui-ios/README.md)
     * [偏好](ui-ios/pian-hao/README.md)
         * [界面调整（面板之上）](ui-ios/pian-hao/above.md)
@@ -58,6 +61,8 @@
     * [fcitx-remote-for-osx 兼容](advanced/fcitx.md)
     * [落格输入法支持的 URL Scheme](advanced/url.md)
 
+---
+
 * [常见问题]()
 
     * [macOS 版 落格输入法无法输入中文分号？](faq/semi-colon.md)
@@ -82,5 +87,5 @@
 
 ---
 
-[修订历史](revision-history.md)
+* [修订历史](revision-history.md)
 

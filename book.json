@@ -1,0 +1,9 @@
+{
+  "root": "./src",
+  "title": "落格输入法使用手册",
+  "description": "本书为落格输入法官方使用手册，包含落格输入法所有功能说明和技巧教程以及常见问题解答。",
+  "author": "落格工作室 <webmaster@logcg.com>",
+  "authorSort": "落格工作室",
+  "language": "zh-CN",
+  "plugins": []
+}
