@@ -5,5 +5,8 @@
   "author": "落格工作室 <webmaster@logcg.com>",
   "authorSort": "落格工作室",
   "language": "zh-CN",
-  "plugins": []
+  "plugins": [
+    "-highlight",
+    "@dogatana/page-toc-button"
+  ]
 }

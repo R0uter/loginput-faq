@@ -1,6 +1,6 @@
 # Summary
 
-* [你好。](README.md)
+* [欢迎](README.md)
 
 * [常见概念](concept/README.md)
     * [什么是落格十七？](concept/whatis17key.md)
