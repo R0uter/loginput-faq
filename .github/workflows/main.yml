@@ -22,7 +22,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Cache modules
-      - uses: actions/cache@v3
+        uses: actions/cache@v3
         id: npm-cache # use this to check for `cache-hit` ==> if: steps.npm-cache.outputs.cache-hit != 'true'
         with:
           path: ${{ steps.npm-cache-dir.outputs.dir }}
