@@ -60,6 +60,7 @@
     * [面板词](advanced/panelword.md)
     * [fcitx-remote-for-osx 兼容](advanced/fcitx.md)
     * [落格输入法支持的 URL Scheme](advanced/url.md)
+    * [如何输入盲文符号](advanced/braille.md)
 
 ---
 
