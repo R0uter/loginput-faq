@@ -20,6 +20,6 @@
   "homepage": "https://github.com/R0uter/loginput-faq#readme",
   "devDependencies": {
     "@dogatana/honkit-plugin-page-toc-button": "^1.0.0",
-    "honkit": "^3.7.4"
+    "honkit": "^4.0.8"
   }
 }
