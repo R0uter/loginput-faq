@@ -21,10 +21,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js 16.x
+      - name: Use Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 23
 
       - name: Get npm cache directory
         id: npm-cache-dir
@@ -50,6 +50,6 @@ jobs:
       - name: Build
         run: npm run build
       - name: Deploy
-        run: aws s3 sync ./_book s3://docs.logcg.com
+        run: aws s3 sync ./build s3://docs.logcg.com --delete
       - name: Invalidate CloudFront
         run: aws cloudfront create-invalidation --distribution-id E17Q7ZH1KXTE9Z --paths "/*"

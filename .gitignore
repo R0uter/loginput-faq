@@ -4,3 +4,5 @@ src/_book
 _book
 .idea
 .DS_Store
+.docusaurus
+build
