@@ -96,6 +96,22 @@
 
 > 比如：[`loginputx://other/lab`](loginputx://other/lab)
 
+## 落格输入法 macOS 3
+
+落格输入法 macOS 3 的 URL Scheme 为 [`loginputmac3://`](loginputmac3://)，你可以直接用这个地址来调用落格输入法的设置 App。
+
+> 注意：第一次使用此 URL Scheme 可能无法成功调起，由于系统注册原因，你需要先启动一次设置，方能正常使用。
+
+- [`loginputmac3://tab/one`](loginputmac3://tab/one)  打开设置的第一个页面，此功能对应的还有`two`,`three`,`four`,`five`,`six`；
+- [`loginputmac3://functions/*`](loginputmac3://functions/silence) 直接打开“系统”页面的各种功能设置菜单，其中包括了：
+  - `silence` 静默列表；
+  - `bootButton` 点划引导；
+  - `customCodetable` 自定义编码；
+  - `extended` 扩展词库；
+  - `puncMap` 符号映射。
+
+> 当然，在你调起对应界面时，记得先在设置中开启对应功能。
+
 ## 落格输入法 macOS 2
 
 落格输入法 macOS 2 的 URL Scheme 为 [`loginputmac2://`](loginputmac2://)，你可以直接用这个地址来调用落格输入法的设置 App。
@@ -111,7 +127,5 @@
   - `puncMap` 符号映射。
 
 > 当然，在你调起对应界面时，记得先在设置中开启对应功能。
-
-
 
 
