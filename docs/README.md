@@ -14,7 +14,7 @@ sidebar_position: 1
 * 甚至落格输入法还有自己的 VoiceOver 解释库！
 * 很难想象，一款新诞生的输入法，就创立了这么多个第一。
 
-落格输入法目前支持 iOS 和 macOS。通过落格输入法，你可以在这两个不同的平台上获得几乎一致的中文输入体验。
+落格输入法目前支持 iOS、macOS 和 Android。通过落格输入法，你可以在这不同的平台上获得几乎一致的中文输入体验。
 
 [落格工作室](https://im.logcg.com) |
 [落格输入法 macOS 3](https://im.logcg.com/loginputmac3) |
